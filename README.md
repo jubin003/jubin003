@@ -28,12 +28,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jubin003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jubin003/jubin003/output/github-contribution-grid-snake-dark.svg">
