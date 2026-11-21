@@ -18,12 +18,14 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="itachi.gif" width="300" alt="itachi gif" />
+<div align="right">
+  <img src="racon.gif" width="300" alt="racon gif" />
 </div>
 
 ###
