@@ -24,7 +24,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="racon.gif" width="300" alt="racon gif" />
 </div>
 
